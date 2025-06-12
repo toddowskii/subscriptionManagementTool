@@ -1,1 +1,1 @@
-# aplikacjaDoZarzadzaniaSubskrybcjami
+# Subscription Managament Tool
